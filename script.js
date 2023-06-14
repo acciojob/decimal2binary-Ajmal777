@@ -1,6 +1,5 @@
 function threeSum(arr, target) {
-// write your code here
-  
+	alert(arr);
 }
 
 module.exports = threeSum;
